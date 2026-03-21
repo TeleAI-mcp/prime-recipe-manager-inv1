@@ -1,2 +1,3 @@
-# prime-recipe-manager-inv1
-Automated issue comment bot repository
+# Prime Recipe Manager Inv1
+
+Automated issue comment bot repository.
